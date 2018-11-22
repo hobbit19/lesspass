@@ -1,0 +1,9 @@
+# python
+__pycache__/
+*.py[cod]
+# javascript
+node_modules
+yarn.lock
+coverage
+# react native
+packages/lesspass-mobile/android
